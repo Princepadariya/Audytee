@@ -1,0 +1,12 @@
+{
+  "name": "Audytee — Practice Management for CA Firms",
+  "short_name": "Audytee",
+  "description": "All-in-one practice management platform for CA and accounting firms.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f2ec",
+  "theme_color": "#1f5d4c",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
